@@ -35,5 +35,15 @@ The app integrates **cloud-hosted Hugging Face language models** and a **cloud v
 
 ---
 
+## 📁 Project Structure
 
 
+---
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/legal-rag-app.git
+cd legal-rag-app

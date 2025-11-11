@@ -1,0 +1,14 @@
+CASE: Justice K.S. Puttaswamy (Retd.) v. Union of India (2017)
+
+FACTS:
+A group of petitioners challenged the constitutional validity of the Aadhaar scheme, claiming that it violated the fundamental right to privacy.
+
+JUDGMENT:
+The Supreme Court of India unanimously held that the right to privacy is a fundamental right under Article 21 of the Constitution.
+
+KEY POINTS:
+- Privacy is intrinsic to life and personal liberty.
+- The decision overruled previous judgments that denied privacy as a fundamental right.
+- The ruling influenced future data protection and surveillance cases in India.
+
+CITATION: (2017) 10 SCC 1
